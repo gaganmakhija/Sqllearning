@@ -1,0 +1,2 @@
+# Sqllearning
+Sql practice code
